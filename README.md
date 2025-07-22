@@ -23,3 +23,7 @@
 - XP entre 8.001 e 9.000 = Ascendente
 - XP entre 9.001 e 10.000= Imortal
 - XP maior ou igual a 10.001 = Radiante
+
+## 🖼️ Resultado
+
+<img src="captura.png" alt="Captura da tela do vscode com o resultado do desafio">
